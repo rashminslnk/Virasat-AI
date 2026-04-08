@@ -4,6 +4,9 @@
 
 ---
 
+<img width="1910" height="936" alt="image" src="https://github.com/user-attachments/assets/bc47beaa-5af5-44d7-a679-63193e08a247" />
+
+
 ## 🚀 The Problem it Solves
 Planning a cultural trip to India can be overwhelming due to the sheer volume of historical data and the logistical challenge of organizing itineraries. 
 
